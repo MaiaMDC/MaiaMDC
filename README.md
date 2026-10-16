@@ -89,16 +89,36 @@
 
 ---
 
-## 📌 Featured Projects
+
+## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/MaiaMDC?tab=repositories">
+  <a href="https://github.com/MaiaMDC/Dev-Full-Stack">
     <img
-      src="https://img.shields.io/badge/Explore-My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore my repositories"
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaMDC&repo=Dev-Full-Stack&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+      alt="Dev Full Stack"
+    />
+  </a>
+  <a href="https://github.com/MaiaMDC/helpdesk-front">
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaMDC&repo=helpdesk-front&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+      alt="Helpdesk Front"
     />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/MaiaMDC/Desafio-ML">
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaMDC&repo=Desafio-ML&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+      alt="Mercado Livre Challenge"
+    />
+  </a>
+</p>
+
 
 ---
 
