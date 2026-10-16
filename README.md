@@ -118,10 +118,3 @@
     />
   </a>
 </p>
-
-
----
-
-<p align="center">
-  <i>Building reliable software, one commit at a time.</i>
-</p>
