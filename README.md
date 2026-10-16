@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Márcio Douglas 👋</h1>
+<h1 align="center">Hi, I'm Marcio Douglas 👋</h1>
 
 <h3 align="center">
   Software Engineer | Java | Spring Boot | Microservices
@@ -26,8 +26,8 @@
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=MaiaMDC&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&rank_icon=percentile"
-    alt="GitHub statistics"
+    src="https://github-readme-stats.vercel.app/api?username=MaiaMDC&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&rank_icon=percentile&custom_title=Marcio%27s%20GitHub%20Stats"
+    alt="Marcio's GitHub Stats"
   />
   <img
     height="165"
